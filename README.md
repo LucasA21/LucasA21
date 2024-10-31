@@ -13,7 +13,6 @@
 - Exploring new tech projects in my spare time
 - Open to internship or job opportunities in tech
 
-<br>
 
 <h3 align="left">
     Connect with me 🤝
@@ -35,7 +34,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools</h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -67,7 +66,8 @@
     </tr>
 </table>
 
-<h3 align="left">GitHub Stats:</h3>
+<h2 align="left">GitHub Stats</h2>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LucasA21&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasA21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=javascript,typescript,scss,css,less,html)
 
