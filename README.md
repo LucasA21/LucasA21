@@ -1,5 +1,4 @@
 <h1 align="center"><b>Hi , I'm Lucas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
@@ -11,7 +10,7 @@
 - Exploring new tech projects in my spare time
 - Open to internship or job opportunities in tech
 
-<br><br>
+<br>
 
 <h3 align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝
@@ -33,7 +32,6 @@
         </a>
     </div>
 </p>
-
 
 <br>
 
