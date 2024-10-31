@@ -1,8 +1,13 @@
 <h1 align="center"><b>Hi , I'm Lucas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+---
 
 <br>
+
+<h3 align="left">
+    About me
+</h3>
+---
 
 - Passionate about systems and software development
 - Currently studying Systems Engineering, 3rd year
@@ -15,9 +20,10 @@
 <h3 align="left">
     Connect with me 🤝
 </h3>
+---
 
 <p align="left">
-    <div align="center" class="icons-social" style="margin-left: 10px;">
+    <div align="left" class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/lucas-araya221/">
             <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
         </a>
@@ -33,6 +39,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
+---
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -64,7 +71,8 @@
     </tr>
 </table>
 
-# 📊 GitHub Stats:
+<h3 align="left">GitHub Stats:</h3>
+---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LucasA21&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasA21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=javascript,typescript,scss,css,less,html)
 
