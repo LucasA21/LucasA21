@@ -13,7 +13,7 @@
 <br>
 
 <h3 align="center">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝
+    <img width="30" height="30" style="margin-right: 10px;">Connect with me 🤝
 </h3>
 
 <p align="center">
@@ -26,9 +26,6 @@
         </a>
         <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/lucasaray4">
             <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
-        </a>
-        <a style="margin-left: 10px;" target="_blank" href="mailto:lucasaraya19@hotmail.com">
-            <img src="https://img.icons8.com/color/48/microsoft-outlook.png">
         </a>
     </div>
 </p>
