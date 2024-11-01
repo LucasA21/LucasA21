@@ -7,7 +7,7 @@
 
 - Passionate about systems and software development
 - Currently studying Systems Engineering, 3rd year
-- Learning Python, Go, and Astro for frontend on my own
+- Learning Python, Go, and Astro on my own
 - Exploring new tech projects in my spare time
 - Open to internship or job opportunities in tech
 
