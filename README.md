@@ -6,7 +6,7 @@
 </h3>
 
 - Passionate about systems and software development
-- Currently studying Systems Engineering
+- Currently studying BSc in Computer Science
 - Exploring new tech projects in my spare time
 - Open to internship or job opportunities in tech
 
