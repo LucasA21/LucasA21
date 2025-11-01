@@ -5,14 +5,13 @@
     About me
 </h3>
 
-- Passionate about systems and software development
-- Currently studying BSc in Computer Science
-- Exploring new tech projects in my spare time
-- Open to internship or job opportunities in tech
+- Actualmente estudiando la carrera de Licenciatura en Sistemas.
+- Especializándome en desarrollo <strong>Frontend</strong> y diseño <strong>UI/UX</strong>.
+- Siempre explorando y creando nuevos proyectos de tecnología en mi tiempo libre.
 
 
 <h3 align="left">
-    Connect with me 🤝
+Conecta conmigo 🤝
 </h3>
 
 <p align="left">
@@ -23,48 +22,35 @@
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/_lucasaraya">
             <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
         </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/lucasaray4">
-            <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
-        </a>
     </div>
 </p>
 
 
-<h2 align="left">Languages and Tools</h2>
+
+<h3 align="left">Lenguajes y Herramientas</h3>
 <table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,go"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=astro,bootstrap,html,css,js,ts,figma"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,bluej,intellij,netbeans"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
-    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=astro,next,svelte,html,css,ts,figma"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Bases de Datos:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Control de Versiones:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Sistemas Operativos:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=ubuntu,windows"/></td>
+    </tr>
 </table>
-
-<h2 align="left">GitHub Stats</h2>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=LucasA21&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasA21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=javascript,typescript,scss,css,less,html)
-
-
